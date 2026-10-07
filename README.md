@@ -7,7 +7,7 @@ Projet personnel de conception complète d'une installation électrique basse te
 | Fichier | Description |
 |---|---|
 | `01-bilan-puissance.xlsx` | Bilan de puissance installée et diversifiée (coefficients Ku/Ks), dimensionnement du disjoncteur d'abonné |
-| `02-schema-unifilaire.pdf` | Schéma unifilaire du tableau général : différentiels, disjoncteurs divisionnaires, sections de câble |
+| `02-schéma-unifilaire.pdf` | Schéma unifilaire du tableau général : différentiels, disjoncteurs divisionnaires, sections de câble |
 | `03-plan-eclairage.pdf` | Plan d'implantation du circuit éclairage (spots, appliques, commandes, va-et-vient) |
 | `04-plan-prises.pdf` | Plan d'implantation des prises de courant, circuits spécialisés et courants faibles (TV, RJ45) |
 

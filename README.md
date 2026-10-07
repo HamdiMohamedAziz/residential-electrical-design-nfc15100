@@ -22,7 +22,7 @@ Projet personnel de conception complète d'une installation électrique basse te
 ## Normes et références utilisées
 
 - **NF C 15-100** — Installations électriques à basse tension
-- [Infographie NF C 15-100 grand public](https://www.promotelec.com) — synthèse pédagogique des principales exigences
+- [Infographie NF C 15-100 grand public]([https://www.promotelec.com](https://assets.legrand.com/editorial/legrandfr/normes/infographie-norme-nfc15100-grand-public.pdf)) — synthèse pédagogique des principales exigences
 - [Cours NF C 15-100 — Meleec, Schneider](http://siteelectrotechnique.free.fr/Documents%20TGE/cours%20Meleec_NORMES_NFC15-100_C.pdf) — détail des règles de dimensionnement et de mise en œuvre
 - [Bibliothèque de symboles électriques NF C 15-100 (DWG) — CalculPro](https://calculpro.fr/outils/electricite/symboles-electriques-nfc-15-100-dwg) — symboles normalisés utilisés sur les plans
 

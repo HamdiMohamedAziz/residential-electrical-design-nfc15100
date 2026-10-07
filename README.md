@@ -1,6 +1,3 @@
-# residential-electrical-design-nfc15100
-Full electrical design of a residential building per NF C 15-100: load calculation, single-line diagram, socket &amp; lighting layout plans.
-
 # Conception d'une installation électrique résidentielle — Villa S+3
 
 Projet personnel de conception complète d'une installation électrique basse tension pour une villa (S+3), réalisé selon la norme **NF C 15-100**.
